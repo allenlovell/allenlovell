@@ -16,7 +16,9 @@
     - Troubleshooting
     - Security
     - Clean-up
- 
-## Connect with Me
 [![Linkedin](https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg)](https://www.linkedin.com/in/your-linkedin-url)   
+## Connect with Me
+<a href="https://www.linkedin.com/in/allenlovellwof">
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" width="24" height="24" alt="LinkedIn">
+</a>   
 

@@ -7,7 +7,7 @@
     - Ubuntu Setup
     - Networking and Firewall
     - Apache Setup
-    - Php Setup
+    - PHP Setup
     - MariaDB Setup
     - osTicket Installation
     - osTicket Configuration

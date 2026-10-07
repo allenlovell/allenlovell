@@ -18,7 +18,7 @@
     - Security
     - Clean-up
 
--**Setting Up Active Directory like environment on Ubuntu 24.04 for Microsoft Clients**
+-**Building an Enterprise Environment with Linux: Microsoft-Compatible vs. Linux-Native Architecture**(*W.I.P.*)
 ## Cybersecurity Projects
 - **Linux Server Hardening**(*not started*)
 - **Linux Log Monitoring**(*not started*)

@@ -1,5 +1,6 @@
 # Allen Lovell | Cybersecurity Analyst | Aspiring Game Developer
 #### Linux developer with a special interest in Declarative Operating Systems
+*I also write music as a side hobby*
 ## Information Technology Projects
 - 🦘 **osTicket(Help Desk Ticketing System) on Ubuntu Server 24.04(Through Microsoft Azure)**(*W.I.P.*)
     - Project Overview
@@ -16,8 +17,9 @@
     - Troubleshooting
     - Security
     - Clean-up
-- **Linux Server Hardening**
-- **Linux Log Monitoring**
+## Cybersecurity Projects
+- **Linux Server Hardening**(*not started*)
+- **Linux Log Monitoring**(*not started*)
 ## Game Development
 - *nothing to see here*
 ## Connect with Me

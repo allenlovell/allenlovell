@@ -16,7 +16,10 @@
     - Troubleshooting
     - Security
     - Clean-up
-
+- **Linux Server Hardening**
+- **Linux Log Monitoring**
+## Game Development
+- *nothing to see here*
 ## Connect with Me
 <a href="https://www.linkedin.com/in/allenlovellwof">
   <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" width="32" height="32" alt="LinkedIn">

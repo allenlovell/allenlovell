@@ -18,6 +18,7 @@
     - Security
     - Clean-up
 - **Building an Enterprise Environment with Linux: Microsoft-Compatible vs. Linux-Native Architecture**(*W.I.P.*)
+    - *A hands-on comparison of Samba/Windows interoperability and Linux-native identity, endpoint management, security, and infrastructure*
 ## Cybersecurity Projects
 - **Linux Server Hardening**(*not started*)
 - **Linux Log Monitoring**(*not started*)

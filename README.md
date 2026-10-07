@@ -17,8 +17,7 @@
     - Troubleshooting
     - Security
     - Clean-up
-
--**Building an Enterprise Environment with Linux: Microsoft-Compatible vs. Linux-Native Architecture**(*W.I.P.*)
+- **Building an Enterprise Environment with Linux: Microsoft-Compatible vs. Linux-Native Architecture**(*W.I.P.*)
 ## Cybersecurity Projects
 - **Linux Server Hardening**(*not started*)
 - **Linux Log Monitoring**(*not started*)
